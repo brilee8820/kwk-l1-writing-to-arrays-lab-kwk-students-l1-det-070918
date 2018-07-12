@@ -6,8 +6,10 @@ rainbow_colors = [
 
 def change_rainbow_colors
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
-my_variable = 1 
-puts my_variable
+rainbow_colors = 1 
+puts rainbow_colors 
+rainbow_colors = "red"
+puts rainbow_colors
 end
 
 def add_colors
